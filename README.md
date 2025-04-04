@@ -31,3 +31,5 @@ num_coins = numel(stats);                 % Count the regions
 imshow(bw_clean);                         % Display cleaned image
 title(['Number of Coins: ', num2str(num_coins)]);
 disp(['Number of coins: ', num2str(num_coins)]);
+Result:![image](https://github.com/user-attachments/assets/88587858-ef44-4987-8f02-f75fa4ec6d92)
+
